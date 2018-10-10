@@ -1,2 +1,2 @@
-# ml-lab
-lab programs of ml lab
+# ML-Lab
+VTU Machine Learning LAB Programs
